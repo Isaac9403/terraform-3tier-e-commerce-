@@ -1,4 +1,4 @@
-# terraform 3 tier e-commerce
+#terraform 3 tier e-commerce
 To deploy a terraform template to AWS from Jenkins
 
-my first jenkins deployment from Github
+my first Jenkins deployment from Github
